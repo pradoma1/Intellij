@@ -1,0 +1,62 @@
+1].Install The App
+2].Run the App And Select Evalutate for Free.
+3].Copy Crack From Crack Folder To Install Directory Using Shortcut I Placed There Or Do it Manually to "C:\Program Files\JetBrains"
+
+4].In App Click On Configure at the Right Bottom of the App Then Select "Edit Custom VM Options..."
+5].Enter "-javaagent:/absolute/path/to/jetbrains-agent.jar" to end line.
+    eg:
+       "-javaagent:C:\Program Files\JetBrains\jetbrains-agent.jar"   (Here C is Where's Your Windows OS Is Installed)
+
+  
+6].Restart App.
+7].Again Click On Configure at the Right Bottom of the App Then Select "Manage License..."
+   Go To "License server" 
+   1). Enter license server address: http://jetbrains-license-server
+
+                        OR 
+
+      Click the button: "Discover Server" to fill automatically.
+8].Done Enjoy~
+
+Imp Note: If You Do Step 5 Wrong then App Wont Run (Happened with me 2 Times While Making Perfect Tutorial) If that Happens You have to Delete and Reinstall App
+
+
+
+
+For Better Guidance Watch Video Tutorial
+
+#By CHAHBI Noureddine.
+
+--------------
+My Accounts:-
+--------------
+
+TPB (Pirate Bay): https://thepiratebay.org/user/Ali-TPB/
+1337x: http://www.1337x.to/user/AliPak/
+TorrentGalaxy: https://torrentgalaxy.org/profile/AliTpb
+Ettv: https://www.ettv.tv/user/AliTpb
+KAT: https://katcr.co/user/Ali/uploads/
+
+--------------------------------------------------------------------------------------
+
+Always Seed Torrents If You Have A Good Internet Connection Dont Delete After Completetion Keep Torrenting Alive Seed As Much As You Can It Wont Hurt You And Will Help Others~ 
+
+Always Remember Sharing is Caring~
+
+
+                                       "Ramazan Mubarak "
+
+
+------------------------------------------------------------------------------------
+                                        ~Requests~
+
+
+Have A Request For Software? Post it At Any Of the Below Links Using My Tag {B4tman}
+
+https://torrentgalaxy.org/forums.php?action=viewtopic&topicid=11
+
+Or
+
+https://pirates-forum.org/Forum-Application-Requests 
+
+
